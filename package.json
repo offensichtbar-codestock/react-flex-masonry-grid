@@ -1,6 +1,6 @@
 {
   "name": "@offensichtbar-codestock/react-flex-masonry-grid",
-  "version": "1.0.1",
+  "version": "1.0.7",
   "description": "React Component for displaying items in a CSS flex-based masonry layout without third party dependencies.",
   "main": "dist/index.cjs.js",
   "homepage": "https://github.com/offensichtbar-codestock/react-flex-masonry-grid",

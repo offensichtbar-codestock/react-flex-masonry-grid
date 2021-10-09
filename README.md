@@ -23,7 +23,7 @@ A fast and lightweight React Component to display a list of objects in a custom 
 #### As npm package
 
 ```sh
-npm install @offensichtbar-codestock/react-flex-masonry-grid --save`
+npm install @offensichtbar-codestock/react-flex-masonry-grid --save
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
 {
   "name": "@offensichtbar-codestock/react-flex-masonry-grid",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "React Component for displaying items in a CSS flex-based masonry layout without third party dependencies.",
   "main": "dist/index.cjs.js",
   "homepage": "https://github.com/offensichtbar-codestock/react-flex-masonry-grid",
@@ -9,9 +9,6 @@
   },
   "peerDependencies": {
     "react": "^17.0.1"
-  },
-  "dependencies": {
-    "@babel/runtime": "^7.15.4"
   },
   "keywords": [
     "react",
@@ -37,6 +34,7 @@
     "autoprefixer": "^10.3.7",
     "rollup": "^2.58.0",
     "rollup-plugin-styles": "^3.14.1",
-    "rollup-plugin-terser": "^7.0.2"
+    "rollup-plugin-terser": "^7.0.2",
+    "@babel/runtime": "^7.15.4"
   }
 }

@@ -94,3 +94,4 @@ flex-basis: 15rem;
 [Stackblitz editor](https://stackblitz.com/edit/react-ts-smrv7d?file=index.tsx)
 
 ## Licence
+[![](https://img.shields.io/github/license/offensichtbar-codestock/react-flex-masonry-grid?color=%23009fe3)](https://opensource.org/licenses/MIT)
